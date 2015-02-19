@@ -52,3 +52,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+#log file
+20150217-access.log
